@@ -1,0 +1,141 @@
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GameEvents>
+    <GameEvent Tutorial="false" Debug="false" RecentEventCounter="7" ResetRecentEventCounter="true" Name="DNA低保1" Editable="HIDDEN" Scenarios="ALL" Limit="1">
+      <TypeCondition>
+        <Type>BACTERIA</Type>
+      </TypeCondition>
+      <DiseaseCondition>
+        
+        
+        <Conditions>
+          <Cond CombineOp="GREATER_THAN_OR_EQUAL" MapOp="SELF" SumOp="SELF">
+            <Cond Target="DISEASE" MapOp="SELF" SumOp="SELF">
+              <FieldVal Field="turnNumber" Op="SET" />
+            </Cond>
+            <Cond MapOp="SELF" SumOp="SELF">
+              <LiteralVal Val="40" />
+            </Cond>
+          </Cond>
+        </Conditions>
+      </DiseaseCondition>
+      <Outcomes>
+        <Outcome LogicalOp="ALWAYS">
+          <PopupType xsi:nil="true" />
+          <Achievement xsi:nil="true" />
+          <NewsVisibility xsi:nil="true" />
+          <LocalEffect>
+            <Effects>
+              <Effect MapOp="SELF" Target="DISEASE" PopulationFrom="" PopulationTo="" Field="evoPoints" Op="PLUS">
+                <Parameter MapOp="SELF" SumOp="SELF">
+                  <LiteralVal Val="10" />
+                </Parameter>
+              </Effect>
+            </Effects>
+          </LocalEffect>
+          <DynamicNewsItem>false</DynamicNewsItem>
+        </Outcome>
+      </Outcomes>
+    </GameEvent>
+    <GameEvent Tutorial="false" Debug="false" RecentEventCounter="7" ResetRecentEventCounter="true" Name="DNA低保2" Editable="HIDDEN" Scenarios="ALL" Limit="1">
+      <TypeCondition>
+        <Type>BACTERIA</Type>
+      </TypeCondition>
+      <DiseaseCondition>
+        
+        
+        <Conditions>
+          <Cond CombineOp="GREATER_THAN_OR_EQUAL" MapOp="SELF" SumOp="SELF">
+            <Cond Target="DISEASE" MapOp="SELF" SumOp="SELF">
+              <FieldVal Field="turnNumber" Op="SET" />
+            </Cond>
+            <Cond MapOp="SELF" SumOp="SELF">
+              <LiteralVal Val="100" />
+            </Cond>
+          </Cond>
+        </Conditions>
+      </DiseaseCondition>
+      <Outcomes>
+        <Outcome LogicalOp="ALWAYS">
+          <PopupType xsi:nil="true" />
+          <Achievement xsi:nil="true" />
+          <NewsVisibility xsi:nil="true" />
+          <LocalEffect>
+            <Effects>
+              <Effect MapOp="SELF" Target="DISEASE" PopulationFrom="" PopulationTo="" Field="evoPoints" Op="PLUS">
+                <Parameter MapOp="SELF" SumOp="SELF">
+                  <LiteralVal Val="20" />
+                </Parameter>
+              </Effect>
+            </Effects>
+          </LocalEffect>
+          <DynamicNewsItem>false</DynamicNewsItem>
+        </Outcome>
+      </Outcomes>
+    </GameEvent>
+    <GameEvent Tutorial="false" Debug="false" RecentEventCounter="7" ResetRecentEventCounter="true" Name="免疫冲击连击" Editable="HIDDEN" Scenarios="ALL" Limit="1">
+      <TypeCondition>
+        <Type>BACTERIA</Type>
+      </TypeCondition>
+      <DiseaseCondition>
+        
+        
+        <Conditions>
+          <Cond CombineOp="AND" MapOp="SELF" SumOp="SELF">
+            <Cond MapOp="SELF" SumOp="SELF">
+              <TechVal isTriggered="true" tech="f4b4fc6d-5a0a-4c09-8ab8-1252c2a0449f" />
+            </Cond>
+            <Cond MapOp="SELF" SumOp="SELF">
+              <TechVal isTriggered="true" tech="e59da851-4468-49b2-a920-2d7da54f266a" />
+            </Cond>
+            <Cond MapOp="SELF" SumOp="SELF">
+              <TechVal isTriggered="true" tech="total_organ_failure" />
+            </Cond>
+          </Cond>
+        </Conditions>
+      </DiseaseCondition>
+      <LocalCondition>
+        <Conditions>
+          <Cond CombineOp="EQUALS" MapOp="SELF" SumOp="SELF">
+            <Cond MapOp="SELF" SumOp="SELF">
+              <LiteralVal Val="1" />
+            </Cond>
+            <Cond MapOp="SELF" SumOp="SELF">
+              <LiteralVal Val="1" />
+            </Cond>
+          </Cond>
+        </Conditions>
+      </LocalCondition>
+      <Outcomes>
+        <Outcome LogicalOp="ALWAYS">
+          <PopupType xsi:nil="true" />
+          <Achievement xsi:nil="true" />
+          <NewsVisibility xsi:nil="true" />
+          <LocalEffect>
+            <Effects />
+          </LocalEffect>
+          <PopupIcon>cure_report</PopupIcon>
+          <PopupTitle OnlyIfNotNoticed="false">免疫冲击连击<useLocalisation>true</useLocalisation></PopupTitle>
+          <PopupMessage OnlyIfNotNoticed="false">外毒素引发的细胞因子风暴和器官衰竭严重影响了身体机理功能，这将大幅增加病原体致命性，并且提高人们的警惕<useLocalisation>true</useLocalisation></PopupMessage>
+          <NewsMessage OnlyIfNotNoticed="false">免疫冲击连击<useLocalisation>true</useLocalisation></NewsMessage>
+          <DynamicNewsItem>false</DynamicNewsItem>
+          <NewsPriority>3</NewsPriority>
+        </Outcome>
+        <Outcome LogicalOp="ALWAYS">
+          <PopupType xsi:nil="true" />
+          <Achievement xsi:nil="true" />
+          <NewsVisibility xsi:nil="true" />
+          <LocalEffect>
+            <Effects>
+              <Effect MapOp="SELF" Target="DISEASE" PopulationFrom="" PopulationTo="" Field="globalLethalityMax" Op="PLUS">
+                <Parameter MapOp="SELF" SumOp="SELF">
+                  <LiteralVal Val="10" />
+                </Parameter>
+              </Effect>
+            </Effects>
+          </LocalEffect>
+          <DynamicNewsItem>false</DynamicNewsItem>
+        </Outcome>
+      </Outcomes>
+    </GameEvent>
+  </GameEvents>
+</Data>

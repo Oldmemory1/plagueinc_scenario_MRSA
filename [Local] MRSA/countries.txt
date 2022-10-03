@@ -1,0 +1,1219 @@
+ 
+peru:
+ name:Peru
+ airport:0
+ original_population:30375603
+ medical_budget:4000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:0
+ cold:1
+ humid:0
+ arid:1
+ country_description:A poor, rural country. Typically has a cold, arid climate.
+ country_description_extended:IG_Peru_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:391
+ 
+argentina:
+ name:Argentina
+ airport:0
+ original_population:59065954
+ medical_budget:6000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:A rural country. Typically has a balanced climate.
+ country_description_extended:IG_Argentina_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:773
+ 
+bolivia:
+ name:Bolivia
+ airport:0
+ original_population:10671200
+ medical_budget:2000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:0
+ cold:0
+ humid:1
+ arid:0
+ country_description:A poor, rural country. Typically has a humid climate.
+ country_description_extended:IG_Bolivia_Factbook_Text
+ base_population_density:0.75
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:133
+ 
+brazil:
+ name:Brazil
+ airport:1
+ original_population:210571282
+ medical_budget:7000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:1
+ arid:0
+ country_description:A rural country. Typically has a hot, humid climate.
+ country_description_extended:IG_Brazil_Factbook_Text
+ base_population_density:1
+ airport_pos:30,0
+ fort_pos:0,0
+ ape_original_population:2752
+ 
+south_america_upper:
+ name:Colombia
+ airport:0
+ original_population:94464490
+ medical_budget:4000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:1
+ arid:0
+ country_description:A poor, rural group of countries. Typically has a hot, humid climate.
+ country_description_extended:IG_Columbia_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:1203
+ 
+caribbean:
+ name:Caribbean
+ airport:0
+ original_population:38316937
+ medical_budget:4000
+ importance:1
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:1
+ arid:0
+ country_description:A poor, rural group of countries. Typically has a hot, humid climate.
+ country_description_extended:IG_Caribbean_Factbook_Text
+ base_population_density:1.25
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:337
+ 
+central_america_upper:
+ name:C. America
+ airport:0
+ original_population:44723159
+ medical_budget:5000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:0
+ arid:0
+ country_description:A poor, rural group of countries. Typically has a hot climate.
+ country_description_extended:IG_C_America_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:483
+ 
+mexico:
+ name:Mexico
+ airport:1
+ original_population:122332399
+ medical_budget:5000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:1
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:An urban country. Typically has a hot, arid climate.
+ country_description_extended:IG_Mexico_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:1524
+ 
+usa:
+ name:USA
+ airport:1
+ original_population:316128839
+ medical_budget:16000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:A rich, urban country. Typically has a balanced climate
+ country_description_extended:IG_USA_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:4153
+ 
+canada:
+ name:Canada
+ airport:1
+ original_population:35158304
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:0
+ rural:0
+ hot:0
+ cold:1
+ humid:0
+ arid:0
+ country_description:A rich country. Typically has a cold climate
+ country_description_extended:IG_Canada_Factbook_Text
+ base_population_density:0.75
+ airport_pos:94,66
+ fort_pos:0,0
+ ape_original_population:458
+ 
+greenland:
+ name:格陵兰岛
+ airport:0
+ original_population:56483
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:0
+ hot:0
+ cold:1
+ humid:0
+ arid:0
+ country_description:A cold and very sparsely populated country
+ country_description_extended:IG_Greenland_Factbook_Text
+ base_population_density:0.75
+ airport_pos:-30,-4
+ fort_pos:0,0
+ ape_original_population:3
+ 
+iceland:
+ name:Iceland
+ airport:1
+ original_population:323002
+ medical_budget:9000
+ importance:1.25
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:0
+ hot:0
+ cold:1
+ humid:0
+ arid:0
+ country_description:Typically has a cold climate.
+ country_description_extended:IG_Iceland_Factbook_Text
+ base_population_density:0.75
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:4
+ 
+united_kingdom:
+ name:UK
+ airport:1
+ original_population:68692366
+ medical_budget:16000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rich, urban country. Typically has a cold, humid climate.
+ country_description_extended:IG_UK_Factbook_Text
+ base_population_density:1.25
+ airport_pos:4,14
+ fort_pos:-3.89,-10.30
+ ape_original_population:836
+ 
+spain:
+ name:Spain
+ airport:1
+ original_population:57107227
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:A rich country. Typically has a hot, arid climate.
+ country_description_extended:IG_Spain_Factbook_Text
+ base_population_density:1
+ airport_pos:-6,0
+ fort_pos:0,0
+ ape_original_population:762
+ 
+france:
+ name:France
+ airport:1
+ original_population:77766807
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:A rich, urban country. Typically has a balanced climate.
+ country_description_extended:IG_France_Factbook_Text
+ base_population_density:1
+ airport_pos:-18,-18
+ fort_pos:-15.45,-9.14
+ ape_original_population:1025
+ 
+italy:
+ name:Italy
+ airport:1
+ original_population:59831093
+ medical_budget:9000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:A rich, urban country. Typically has a balanced climate.
+ country_description_extended:IG_Italy_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:-4.52,-6.68
+ ape_original_population:813
+ 
+balcan_states:
+ name:Balkan States
+ airport:0
+ original_population:62285010
+ medical_budget:5000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rural group of countries. Typically has a cold, humid climate.
+ country_description_extended:IG_Balkan_States_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:872
+ 
+central_european_states:
+ name:Central Europe
+ airport:0
+ original_population:44448562
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:0
+ rural:0
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rich group of countries. Typically has a cold, humid climate.
+ country_description_extended:IG_Central_Europe_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:-7.93,0.97
+ ape_original_population:594
+ 
+germany:
+ name:Germany
+ airport:1
+ original_population:103039718
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rich, urban country. Typically has a cold, humid climate.
+ country_description_extended:IG_Germany_Factbook_Text
+ base_population_density:1.25
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:1396
+ 
+poland:
+ name:Poland
+ airport:0
+ original_population:38530725
+ medical_budget:5000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rural country. Typically has a cold, humid climate.
+ country_description_extended:IG_Poland_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:513
+ 
+norway:
+ name:Norway
+ airport:0
+ original_population:5084190
+ medical_budget:16000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rich, urban country. Typically has a cold, humid climate.
+ country_description_extended:IG_Norway_Factbook_Text
+ base_population_density:0.75
+ airport_pos:0,0
+ fort_pos:-22.78,27.44
+ ape_original_population:66
+ 
+sweden:
+ name:Sweden
+ airport:0
+ original_population:9592552
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rich, urban country. Typically has a cold, humid climate.
+ country_description_extended:IG_Sweden_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:126
+ 
+finland:
+ name:Finland
+ airport:0
+ original_population:5439407
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:0
+ rural:1
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rich, rural country. Typically has a cold, humid climate.
+ country_description_extended:IG_Finland_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:1.82,20.86
+ ape_original_population:72
+ 
+baltic_states:
+ name:Baltic States
+ airport:0
+ original_population:15760118
+ medical_budget:5000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rural group of countries. Typically has a cold, humid climate.
+ country_description_extended:IG_Baltic_States_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:221
+ 
+russia:
+ name:Russia
+ airport:1
+ original_population:160369925
+ medical_budget:6000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rural country. Typically has a cold, humid climate.
+ country_description_extended:IG_Russia_Factbook_Text
+ base_population_density:0.75
+ airport_pos:-195,40
+ fort_pos:0,0
+ ape_original_population:1905
+ 
+ukraine:
+ name:Ukraine
+ airport:0
+ original_population:45489600
+ medical_budget:4000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:0
+ cold:1
+ humid:1
+ arid:0
+ country_description:A rural country. Typically has a cold, humid climate.
+ country_description_extended:IG_Ukraine_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:616
+ 
+turkey:
+ name:Turkey
+ airport:0
+ original_population:74932641
+ medical_budget:5000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:A rural country. Typically has a balanced climate.
+ country_description_extended:IG_Turkey_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:978
+ 
+morroco:
+ name:Morocco
+ airport:0
+ original_population:33008150
+ medical_budget:6000
+ importance:1
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:A poor, rural country. Typically has a hot, arid climate.
+ country_description_extended:IG_Morocco_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:429
+ 
+western_africa:
+ name:West Africa
+ airport:0
+ original_population:330752285
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:0
+ arid:0
+ country_description:A poor, rural group of countries. Typically has a hot climate.
+ country_description_extended:IG_West_Africa_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:31014
+ 
+algeria:
+ name:Algeria
+ airport:0
+ original_population:50094694
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:A poor country. Typically has a hot, arid climate.
+ country_description_extended:IG_Algeria_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:619
+ 
+libya:
+ name:Libya
+ airport:0
+ original_population:6201521
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:0
+ urban:1
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:An urban country. Typically has a hot, arid climate.
+ country_description_extended:IG_Libya_Factbook_Text
+ base_population_density:0.75
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:85
+ 
+central_africa:
+ name:Central Africa
+ airport:0
+ original_population:114085724
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:0
+ arid:0
+ country_description:A poor, rural group of countries. Typically has a hot climate.
+ country_description_extended:IG_Central_Africa_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:408738
+ 
+angola:
+ name:Angola
+ airport:0
+ original_population:21471618
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:0
+ country_description:A poor country. Typically has a hot climate.
+ country_description_extended:IG_Angola_Factbook_Text
+ base_population_density:0.75
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:2356
+ 
+south_africa:
+ name:South Africa
+ airport:1
+ original_population:56534820
+ medical_budget:8000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:Typically has a hot, arid climate.
+ country_description_extended:IG_South_Africa_Factbook_Text
+ base_population_density:1
+ airport_pos:0,10
+ fort_pos:0,0
+ ape_original_population:719
+ 
+botswana:
+ name:Botswana
+ airport:0
+ original_population:2021144
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:0
+ country_description:A poor country. Typically has a hot climate.
+ country_description_extended:IG_Botswana_Factbook_Text
+ base_population_density:0.75
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:27
+ 
+zimbabwe:
+ name:Zimbabwe
+ airport:0
+ original_population:14149648
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:0
+ country_description:A poor country. Typically has a hot climate.
+ country_description_extended:IG_Zimbabwe_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:169
+ 
+madagascar:
+ name:Madagascar
+ airport:0
+ original_population:22924851
+ medical_budget:4000
+ importance:1.5
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:A poor, rural country. Typically has a balanced climate.
+ country_description_extended:IG_Madagascar_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:278
+ 
+east_africa:
+ name:East Africa
+ airport:0
+ original_population:320789180
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:0
+ arid:0
+ country_description:A poor, rural group of countries. Typically has a hot climate.
+ country_description_extended:IG_East_Africa_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:32978
+ 
+sudan:
+ name:Sudan
+ airport:0
+ original_population:49260479
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:A poor, rural country. Typically has a hot, arid climate.
+ country_description_extended:IG_Sudan_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:21585
+ 
+egypt:
+ name:Egypt
+ airport:1
+ original_population:82056378
+ medical_budget:4000
+ importance:1
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:A poor country. Typically has a hot, arid climate.
+ country_description_extended:IG_Egypt_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:1090
+ 
+middle_east:
+ name:Middle east
+ airport:0
+ original_population:46000846
+ medical_budget:6000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:A group of countries that have a hot, arid climate.
+ country_description_extended:IG_Middle_East_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:515
+ 
+soudi_arabia:
+ name:Saudi Arabia
+ airport:1
+ original_population:71752069
+ medical_budget:8000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:Typically has a hot, arid climate.
+ country_description_extended:IG_Saudi_Arabia_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:830
+ 
+iraq:
+ name:Iraq
+ airport:0
+ original_population:33417476
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:Typically has a hot, arid climate.
+ country_description_extended:IG_Iraq_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:430
+ 
+iran:
+ name:Iran
+ airport:0
+ original_population:77447168
+ medical_budget:4000
+ importance:0.75
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:Typically has a hot, arid climate.
+ country_description_extended:IG_Iran_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:994
+ 
+kazakhstan:
+ name:Kazakhstan
+ airport:0
+ original_population:17037508
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:1
+ country_description:A poor country. Typically has an arid climate.
+ country_description_extended:IG_Kazakhstan_Factbook_Text
+ base_population_density:0.75
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:219
+ 
+central_asia:
+ name:Central Asia
+ airport:0
+ original_population:49408506
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:1
+ country_description:A poor group of countries. Typically has an arid climate.
+ country_description_extended:IG_Central_Asia_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:610
+ 
+afghanistan:
+ name:Afghanistan
+ airport:0
+ original_population:30551674
+ medical_budget:3000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:1
+ country_description:A poor country. Typically has an arid climate.
+ country_description_extended:IG_Afghanistan_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:462
+ 
+pakistan:
+ name:Pakistan
+ airport:0
+ original_population:182142594
+ medical_budget:4000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:A poor country. Typically has a hot, arid climate.
+ country_description_extended:IG_Pakistan_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:2333
+ 
+india:
+ name:India
+ airport:1
+ original_population:1457015015
+ medical_budget:6000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:1
+ arid:0
+ country_description:A rural country. Typically has a hot, humid climate.
+ country_description_extended:IG_India_Factbook_Text
+ base_population_density:1.25
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:18416
+ 
+china:
+ name:China
+ airport:1
+ original_population:1413227603
+ medical_budget:16000
+ importance:1.25
+ wealthy:0
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:An urban country. Typically has a balanced climate.
+ country_description_extended:IG_China_Factbook_Text
+ base_population_density:0.75
+ airport_pos:16,50
+ fort_pos:0,0
+ ape_original_population:18021
+ 
+koreas:
+ name:Korea
+ airport:0
+ original_population:75115149
+ medical_budget:8000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:1
+ rural:1
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:Urban in the South, Rural in the North. Typically has a balanced climate.
+ country_description_extended:IG_Korea_Factbook_Text
+ base_population_density:1.25
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:984
+ 
+japan:
+ name:Japan
+ airport:1
+ original_population:127338621
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:A rich, urban country. Typically has a balanced climate.
+ country_description_extended:IG_Japan_Factbook_Text
+ base_population_density:1.25
+ airport_pos:0,0
+ fort_pos:13.85,-8.54
+ ape_original_population:1713
+ 
+south_east_asia:
+ name:S. E Asia
+ airport:0
+ original_population:261600281
+ medical_budget:6000
+ importance:0.75
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:1
+ arid:0
+ country_description:A poor, rural group of countries. Typically has a hot, humid climate.
+ country_description_extended:IG_S_E_Asia_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:3397
+ 
+indonesia:
+ name:Indonesia
+ airport:1
+ original_population:255264831
+ medical_budget:4000
+ importance:1
+ wealthy:0
+ poverty:0
+ urban:0
+ rural:1
+ hot:1
+ cold:0
+ humid:1
+ arid:0
+ country_description:A rural country. Typically has a hot, humid climate.
+ country_description_extended:IG_Indonesia_Factbook_Text
+ base_population_density:1
+ airport_pos:0,0
+ fort_pos:-5.24,9.38
+ ape_original_population:70738
+ 
+philipines:
+ name:Philippines
+ airport:0
+ original_population:98393574
+ medical_budget:4000
+ importance:1
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:1
+ arid:0
+ country_description:A poor country. Typically has a hot, humid climate.
+ country_description_extended:IG_Philippines_Factbook_Text
+ base_population_density:1.25
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:1253
+ 
+papua:
+ name:New Guinea
+ airport:0
+ original_population:7321262
+ medical_budget:3000
+ importance:1
+ wealthy:0
+ poverty:1
+ urban:0
+ rural:0
+ hot:1
+ cold:0
+ humid:1
+ arid:0
+ country_description:A poor country. Typically has a hot, humid climate.
+ country_description_extended:IG_New_Guinea_Factbook_Text
+ base_population_density:0.75
+ airport_pos:0,0
+ fort_pos:0,0
+ ape_original_population:92
+ 
+australia:
+ name:Australia
+ airport:1
+ original_population:23130900
+ medical_budget:10000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:1
+ cold:0
+ humid:0
+ arid:1
+ country_description:A rich, urban country. Typically has a hot, arid climate.
+ country_description_extended:IG_Australia_Factbook_Text
+ base_population_density:0.75
+ airport_pos:40,14
+ fort_pos:0,0
+ ape_original_population:300
+ 
+new_zealand:
+ name:New Zealand
+ airport:1
+ original_population:4470800
+ medical_budget:16000
+ importance:1.25
+ wealthy:1
+ poverty:0
+ urban:1
+ rural:0
+ hot:0
+ cold:0
+ humid:0
+ arid:0
+ country_description:A rich, urban country. Typically has a balanced climate.
+ country_description_extended:IG_New_Zealand_Factbook_Text
+ base_population_density:0.75
+ airport_pos:16,-16
+ fort_pos:0,0
+ ape_original_population:59
+ 
